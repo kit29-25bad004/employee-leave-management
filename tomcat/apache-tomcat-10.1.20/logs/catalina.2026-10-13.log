@@ -1,0 +1,158 @@
+13-Oct-2026 14:10:07.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.20
+13-Oct-2026 14:10:07.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 12:49:58 UTC
+13-Oct-2026 14:10:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.20.0
+13-Oct-2026 14:10:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Oct-2026 14:10:07.308 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Oct-2026 14:10:07.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Oct-2026 14:10:07.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.11
+13-Oct-2026 14:10:07.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.11+9-LTS-211
+13-Oct-2026 14:10:07.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Oct-2026 14:10:07.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:10:07.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\conf\logging.properties
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Oct-2026 14:10:07.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Oct-2026 14:10:07.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Oct-2026 14:10:07.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Oct-2026 14:10:07.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:10:07.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:10:07.328 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\temp
+13-Oct-2026 14:10:07.335 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+13-Oct-2026 14:10:07.361 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-Oct-2026 14:10:07.654 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:10:07.687 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [632] milliseconds
+13-Oct-2026 14:10:07.754 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Oct-2026 14:10:07.755 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+13-Oct-2026 14:10:07.785 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war]
+13-Oct-2026 14:10:09.306 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:10:09.408 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war] has finished in [1,623] ms
+13-Oct-2026 14:10:09.412 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\ROOT.war]
+13-Oct-2026 14:10:10.409 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:10:10.471 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\ROOT.war] has finished in [1,058] ms
+13-Oct-2026 14:10:10.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\docs]
+13-Oct-2026 14:10:10.535 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\docs] has finished in [62] ms
+13-Oct-2026 14:10:10.536 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\examples]
+13-Oct-2026 14:10:11.083 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\examples] has finished in [546] ms
+13-Oct-2026 14:10:11.084 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\host-manager]
+13-Oct-2026 14:10:11.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\host-manager] has finished in [70] ms
+13-Oct-2026 14:10:11.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\manager]
+13-Oct-2026 14:10:11.238 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\manager] has finished in [83] ms
+13-Oct-2026 14:10:11.244 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:10:11.310 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3621] milliseconds
+13-Oct-2026 14:29:07.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.20
+13-Oct-2026 14:29:07.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 12:49:58 UTC
+13-Oct-2026 14:29:07.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.20.0
+13-Oct-2026 14:29:07.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Oct-2026 14:29:07.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Oct-2026 14:29:07.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Oct-2026 14:29:07.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.11
+13-Oct-2026 14:29:07.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.11+9-LTS-211
+13-Oct-2026 14:29:07.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Oct-2026 14:29:07.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:29:07.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:29:07.898 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\conf\logging.properties
+13-Oct-2026 14:29:07.898 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Oct-2026 14:29:07.898 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Oct-2026 14:29:07.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Oct-2026 14:29:07.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Oct-2026 14:29:07.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Oct-2026 14:29:07.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Oct-2026 14:29:07.900 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Oct-2026 14:29:07.900 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Oct-2026 14:29:07.900 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:29:07.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:29:07.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\temp
+13-Oct-2026 14:29:07.912 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+13-Oct-2026 14:29:07.926 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-Oct-2026 14:29:08.524 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:29:08.580 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1122] milliseconds
+13-Oct-2026 14:29:08.679 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Oct-2026 14:29:08.680 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+13-Oct-2026 14:29:08.738 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war]
+13-Oct-2026 14:32:36.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.20
+13-Oct-2026 14:32:36.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 12:49:58 UTC
+13-Oct-2026 14:32:36.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.20.0
+13-Oct-2026 14:32:36.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Oct-2026 14:32:36.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Oct-2026 14:32:36.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Oct-2026 14:32:36.847 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.11
+13-Oct-2026 14:32:36.847 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.11+9-LTS-211
+13-Oct-2026 14:32:36.847 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Oct-2026 14:32:36.847 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:32:36.848 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:32:36.871 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\conf\logging.properties
+13-Oct-2026 14:32:36.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Oct-2026 14:32:36.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Oct-2026 14:32:36.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Oct-2026 14:32:36.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Oct-2026 14:32:36.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Oct-2026 14:32:36.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Oct-2026 14:32:36.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Oct-2026 14:32:36.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Oct-2026 14:32:36.874 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:32:36.874 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:32:36.874 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\temp
+13-Oct-2026 14:32:36.880 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+13-Oct-2026 14:32:36.895 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-Oct-2026 14:32:37.461 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:32:37.513 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1028] milliseconds
+13-Oct-2026 14:32:37.624 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Oct-2026 14:32:37.625 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+13-Oct-2026 14:32:37.686 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war]
+13-Oct-2026 14:32:40.342 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:32:40.559 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war] has finished in [2,871] ms
+13-Oct-2026 14:32:40.567 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\ROOT.war]
+13-Oct-2026 14:32:42.560 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:32:42.680 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\ROOT.war] has finished in [2,114] ms
+13-Oct-2026 14:32:42.682 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\docs]
+13-Oct-2026 14:32:42.777 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\docs] has finished in [94] ms
+13-Oct-2026 14:32:42.778 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\examples]
+13-Oct-2026 14:34:44.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.20
+13-Oct-2026 14:34:44.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 12:49:58 UTC
+13-Oct-2026 14:34:44.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.20.0
+13-Oct-2026 14:34:44.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Oct-2026 14:34:44.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Oct-2026 14:34:44.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Oct-2026 14:34:44.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.11
+13-Oct-2026 14:34:44.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.11+9-LTS-211
+13-Oct-2026 14:34:44.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Oct-2026 14:34:44.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:34:44.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:34:44.775 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\conf\logging.properties
+13-Oct-2026 14:34:44.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Oct-2026 14:34:44.776 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Oct-2026 14:34:44.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Oct-2026 14:34:44.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Oct-2026 14:34:44.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-Oct-2026 14:34:44.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-Oct-2026 14:34:44.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Oct-2026 14:34:44.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Oct-2026 14:34:44.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:34:44.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20
+13-Oct-2026 14:34:44.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\temp
+13-Oct-2026 14:34:44.786 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+13-Oct-2026 14:34:44.803 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-Oct-2026 14:34:45.331 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:34:45.378 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1033] milliseconds
+13-Oct-2026 14:34:45.476 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Oct-2026 14:34:45.476 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+13-Oct-2026 14:34:45.544 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war]
+13-Oct-2026 14:34:48.303 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:34:48.495 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\employee-leave-management.war] has finished in [2,950] ms
+13-Oct-2026 14:34:48.500 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\ROOT.war]
+13-Oct-2026 14:34:50.441 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Oct-2026 14:34:50.594 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\ROOT.war] has finished in [2,093] ms
+13-Oct-2026 14:34:50.596 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\docs]
+13-Oct-2026 14:34:50.716 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\docs] has finished in [120] ms
+13-Oct-2026 14:34:50.718 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\examples]
+13-Oct-2026 14:34:51.704 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\examples] has finished in [987] ms
+13-Oct-2026 14:34:51.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\host-manager]
+13-Oct-2026 14:34:51.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\host-manager] has finished in [92] ms
+13-Oct-2026 14:34:51.797 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\manager]
+13-Oct-2026 14:34:51.887 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Maya P\.gemini\antigravity\scratch\employee-leave-management\tomcat\apache-tomcat-10.1.20\webapps\manager] has finished in [90] ms
+13-Oct-2026 14:34:51.894 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Oct-2026 14:34:51.949 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6567] milliseconds
